@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-crud-af4db": {
+      "hosting": {
+        "firebase-app": [
+          "fir-crud-af4db"
+        ]
+      }
+    }
+  }
+}
